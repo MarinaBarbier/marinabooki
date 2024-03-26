@@ -1,1 +1,1 @@
-# marinabooki
+# booki-starter-pack
